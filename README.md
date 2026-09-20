@@ -1,7 +1,12 @@
 # Minecraft-Python
 Minecraft-Python
 
-## 업데이트 내역
+## 학습 내용
+
+### 2026-09-20
+- `setblocks()`를 사용하여 두 좌표 사이에 여러 블록을 한 번에 생성하는 방법
+- 좌표와 블록 ID를 이용해 Minecraft 안에 블록 구조물을 만드는 예제
+- `time` 모듈과 `time.sleep()`을 이용한 시간 지연 학습 시작
 
 ### 2026-09-13
 - 변수 이름 규칙, 자료형(`str`, `float`, `int`), `print()` 사용법
